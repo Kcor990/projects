@@ -16,7 +16,7 @@ Interesują mnie mikrokontrolery AVR, Raspberry Pi oraz projektowanie PCB w KiCa
 ## 💡 Projekty
 ### 🔸 Sterownik szklarni ogrodowej
 Prosty sterownik z kilkoma funkcjami 
-➡️ [Zobacz projekt](link_do_repozytorium)
+➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
 
 
 
