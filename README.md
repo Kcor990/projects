@@ -26,13 +26,6 @@ Sterownik pasków diod LED driver PT4115
 Układ do wsparcia automatyzacji testów w automotive
 ➡️ [Zobacz projekt](https://github.com/Kcor990/LBswitchMJR)
 
-### 🔸 Układy prototypowe oraz pozostałe 
-Układy archiwalne, szkolne
-➡️ [Zobacz projekt](https://github.com/Kcor990/COMMON)
-
-### 🔸 Druk 3D
-Modele projektowane przeze mnie
-➡️ [Zobacz projekt](https://github.com/Kcor990/3DPRINTMJR)
 
 ---
 
