@@ -1,4 +1,4 @@
-# Robert Miazek
+# Robert M
 **Inżynier Elektronik**
 
 Zajmuję się projektowaniem, prototypowaniem i testowaniem układów elektronicznych.  
@@ -15,27 +15,24 @@ Interesują mnie mikrokontrolery AVR, Raspberry Pi oraz projektowanie PCB i hard
 
 ## 💡 Projekty
 ### 🔸 Sterownik szklarni ogrodowej MJR Greenhouse
-Sterownik klimatu do tunelu foliowego lub szklarni oraz wersja domowa oparty/a na Arduino
+Sterownik klimatu oparty na Arduino/ATmega328P
 ➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
 
 ### 🔸 Driver LED do oświetlenia sadzonek
-Sterownik diod LED 12V oparty na driverze PT4115
-➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
+Sterownik pasków diod LED driver PT4115
+➡️ [Zobacz projekt](https://github.com/Kcor990/LEDdriverMJR)
 
 ### 🔸 LB switch - projekt układu switch na ATXmega 
-Układ zaprojektowany do wsparcia automatyzacji testów w laboratorium automotive
-➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
+Układ do wsparcia automatyzacji testów w automotive
+➡️ [Zobacz projekt](https://github.com/Kcor990/LBswitchMJR)
 
 ### 🔸 Układy prototypowe oraz pozostałe 
 Układy archiwalne, szkolne
-➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
+➡️ [Zobacz projekt](https://github.com/Kcor990/COMMON)
 
 ### 🔸 Druk 3D
 Modele projektowane przeze mnie
-➡️ [Zobacz projekt](https://github.com/Kcor990/MJR-Greenhouse)
+➡️ [Zobacz projekt](https://github.com/Kcor990/3DPRINTMJR)
 
 ---
 
-## 📫 Kontakt
-📧 rob_95@interia.pl  
-🔗 [LinkedIn](#) https://www.linkedin.com/in/rob-miazek-508273342/
