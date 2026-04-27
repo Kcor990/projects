@@ -2,13 +2,12 @@
 **Inżynier Elektronik**
 
 Zajmuję się projektowaniem, prototypowaniem i testowaniem układów elektronicznych.  
-Interesują mnie mikrokontrolery AVR, Raspberry Pi oraz projektowanie PCB i hardware.
 
 ---
 
 ## 🔧 Technologie i narzędzia
 - 🧠 Mikrokontrolery: AVR, Arduino, ESP32, Raspberry Pi  
-- ⚙️ Oprogramowanie: KiCad, Altium (podstawy), C/C++, Arduino, Microchip Studio
+- ⚙️ Oprogramowanie: KiCad, Altium (podstawy), C/C++, VS Code, Microchip Studio
 - 🔬 Sprzęt: oscyloskop cyfrowy, multimetr, oscyloskop, drukarka 3D, zasilacz laboratoryjny
 
 ---
@@ -26,6 +25,8 @@ Sterownik pasków diod LED driver PT4115
 Układ do wsparcia automatyzacji testów w automotive
 ➡️ [Zobacz projekt](https://github.com/Kcor990/LBswitchMJR)
 
-
+### 🔸 Freelance projects (FSS) 
+Projekty PCB wykonane dla firmy FSS
+➡️ [Zobacz projekt](https://github.com/Kcor990/PCB-freelance-projects)
 ---
 
