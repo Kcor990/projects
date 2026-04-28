@@ -16,6 +16,8 @@ Zajmuję się projektowaniem, prototypowaniem i testowaniem układów elektronic
 
 W trakcie realizacji
 ### 🔸 Datalogger - komunikacja LoRa z odbiornikiem, pomiar temperatury i wilgotności w tunelu ogrodowym
+![Datalogger LoRa](images/datalogger1.png)
+
 ### 🔸 Sterownik tunelu ogrodowego zasilany bateryjnie
 
 
